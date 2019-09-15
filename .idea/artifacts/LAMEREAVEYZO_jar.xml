@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LAMEREAVEYZO:jar">
+    <output-path>$USER_HOME$/Desktop/serveur/plugins</output-path>
+    <root id="archive" name="LAMEREAVEYZO.jar">
+      <element id="module-output" name="LAMEREAVEYZO" />
+    </root>
+  </artifact>
+</component>
